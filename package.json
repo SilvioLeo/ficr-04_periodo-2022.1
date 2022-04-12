@@ -1,0 +1,24 @@
+{
+  "name": "ficr-aula-jademir",
+  "version": "1.0.0",
+  "description": "Aula inicial para o nosso projeto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "node",
+    "git",
+    "projeto-inicial"
+  ],
+  "author": "Silvio",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1",
+    "nodemon": "^2.0.15"
+  }
+}
